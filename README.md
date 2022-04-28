@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently formally learning Full Stack Web Development at The Developers Institute
 
-- 📫 How to reach me ... warricksmith@developersinstitute.co.nz
+- 📫 How to reach me ... warrick@bayhut.co.nz
