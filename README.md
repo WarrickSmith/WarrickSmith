@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in everything Development related!
 
-- 🌱 I’m currently formally learning Full Stack Web Development at The Developers Institute
+- 🌱 I’m working as a Software Engineer for Neo.
 
 - 📫 How to reach me ... warrick@baybox.co.nz
